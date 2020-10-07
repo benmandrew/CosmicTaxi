@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: f218608ac40921c43ac5d33782e57d7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3276993277911504558
+    second: HelpBot3000_Example
+  - first:
+      213: 8063314593254223511
+    second: HB3000_Antenna
+  - first:
+      213: -6466845946105510139
+    second: HB3000_Face_Angry
+  - first:
+      213: -5429231284690815664
+    second: HB3000_Face_Unamused
+  - first:
+      213: 526024756891185806
+    second: HB3000_Head
+  - first:
+      213: 8100272096071311536
+    second: HB3000_Face_Happy
+  - first:
+      213: -1696979128768734228
+    second: HB3000_Face_Shocked
+  - first:
+      213: -7394100284079906649
+    second: HB3000_Body1
+  - first:
+      213: 2135293809258337911
+    second: HB3000_Body2
+  - first:
+      213: -5416826400106691589
+    second: HB3000_Plate1
+  - first:
+      213: 8528660644826419833
+    second: HB3000_Plate2
+  - first:
+      213: 1722598648379792900
+    second: HB3000_Plate3
+  - first:
+      213: 6117780420527278460
+    second: HB3000_Plate4
+  - first:
+      213: 1888602981668177911
+    second: HB3000_Hand
+  - first:
+      213: -8567834881185730206
+    second: RoboHelperSprites_14
+  - first:
+      213: -7229626639988246619
+    second: RoboHelperSprites_15
+  - first:
+      213: 974137320410316056
+    second: RoboHelperSprites_16
+  - first:
+      213: 2322301767626984687
+    second: RoboHelperSprites_17
+  - first:
+      213: 8319991530503596109
+    second: RoboHelperSprites_18
+  - first:
+      213: -3730468461638576961
+    second: RoboHelperSprites_19
+  - first:
+      213: -5068855081668992643
+    second: RoboHelperSprites_20
+  - first:
+      213: 4999050739630534665
+    second: RoboHelperSprites_21
+  - first:
+      213: -5827065881865646191
+    second: RoboHelperSprites_22
+  - first:
+      213: -3020967877188349360
+    second: HB3000_Wheel1
+  - first:
+      213: 7774047555914064137
+    second: HB3000_Wheel2
+  - first:
+      213: 552120640600516826
+    second: HB3000_Arm_Straight
+  - first:
+      213: 4220374702552084964
+    second: HB3000_Arm_Curved
+  - first:
+      213: 2713185137907179510
+    second: RoboHelperSprites_27
+  - first:
+      213: -3916831709192922356
+    second: RoboHelperSprites_28
+  - first:
+      213: 367405668437120539
+    second: RoboHelperSprites_29
+  - first:
+      213: 7346961520344807816
+    second: RoboHelperSprites_30
+  - first:
+      213: -5111918247275372452
+    second: RoboHelperSprites_31
+  - first:
+      213: 4223165538278307900
+    second: RoboHelperSprites_32
+  - first:
+      213: -2832248461852304961
+    second: RoboHelperSprites_33
+  - first:
+      213: 7423074006906403830
+    second: RoboHelperSprites_34
+  - first:
+      213: 834347261325266986
+    second: RoboHelperSprites_35
+  - first:
+      213: 2727908859769407140
+    second: RoboHelperSprites_36
+  - first:
+      213: 9175380202190559853
+    second: RoboHelperSprites_37
+  - first:
+      213: 7763043573452971830
+    second: RoboHelperSprites_38
+  - first:
+      213: -5021855902015809446
+    second: RoboHelperSprites_39
+  - first:
+      213: -2624015536120957589
+    second: RoboHelperSprites_40
+  - first:
+      213: 5246848759466955205
+    second: RoboHelperSprites_41
+  - first:
+      213: 445732187869355733
+    second: RoboHelperSprites_42
+  - first:
+      213: 4700493884712540044
+    second: RoboHelperSprites_43
+  - first:
+      213: -1476527653539058728
+    second: RoboHelperSprites_44
+  - first:
+      213: -5740383205938676709
+    second: RoboHelperSprites_45
+  - first:
+      213: 3645758874325447111
+    second: RoboHelperSprites_46
+  - first:
+      213: 5869964153052494350
+    second: RoboHelperSprites_47
+  - first:
+      213: -3193546892880759083
+    second: RoboHelperSprites_48
+  - first:
+      213: -802732955263301474
+    second: RoboHelperSprites_49
+  - first:
+      213: 4033006134363182852
+    second: RoboHelperSprites_50
+  - first:
+      213: -1012009580416812006
+    second: RoboHelperSprites_51
+  - first:
+      213: 4768685793449140542
+    second: RoboHelperSprites_52
+  - first:
+      213: 5371439507127762292
+    second: RoboHelperSprites_53
+  - first:
+      213: -3568965791184564635
+    second: RoboHelperSprites_54
+  - first:
+      213: -7882552582762221170
+    second: RoboHelperSprites_55
+  - first:
+      213: 7175087114897574833
+    second: RoboHelperSprites_56
+  - first:
+      213: -627958150643811870
+    second: RoboHelperSprites_57
+  - first:
+      213: 5353192276329694765
+    second: RoboHelperSprites_58
+  - first:
+      213: 5470415735021241789
+    second: RoboHelperSprites_59
+  - first:
+      213: 1883912043804726693
+    second: RoboHelperSprites_60
+  - first:
+      213: -5908505143369282195
+    second: RoboHelperSprites_61
+  - first:
+      213: -801715324582086719
+    second: RoboHelperSprites_62
+  - first:
+      213: -124868015349670960
+    second: RoboHelperSprites_63
+  - first:
+      213: 7428024498165470338
+    second: RoboHelperSprites_64
+  - first:
+      213: 3875181328341282700
+    second: RoboHelperSprites_65
+  - first:
+      213: -1986583460728287706
+    second: RoboHelperSprites_66
+  - first:
+      213: 2684860044494500144
+    second: RoboHelperSprites_67
+  - first:
+      213: 8059172285007452917
+    second: RoboHelperSprites_68
+  - first:
+      213: 8134755553572888036
+    second: RoboHelperSprites_69
+  - first:
+      213: 7058670839470329119
+    second: RoboHelperSprites_70
+  - first:
+      213: 2509980870306479874
+    second: RoboHelperSprites_71
+  - first:
+      213: -3222152372760293745
+    second: RoboHelperSprites_72
+  - first:
+      213: 3370848960187107889
+    second: RoboHelperSprites_73
+  - first:
+      213: -1693363483247860773
+    second: RoboHelperSprites_74
+  - first:
+      213: 3185108292035877772
+    second: RoboHelperSprites_75
+  - first:
+      213: -6831015062268090808
+    second: RoboHelperSprites_76
+  - first:
+      213: -9125093734832251522
+    second: RoboHelperSprites_77
+  - first:
+      213: 5411838653993520577
+    second: RoboHelperSprites_78
+  - first:
+      213: -8252185420320786026
+    second: RoboHelperSprites_79
+  - first:
+      213: -8007805823347353583
+    second: RoboHelperSprites_80
+  - first:
+      213: 7218444445601998580
+    second: RoboHelperSprites_81
+  - first:
+      213: 3033529221703015160
+    second: RoboHelperSprites_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelpBot3000_Example
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 503
+        width: 1158
+        height: 1447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259edbad9f7c582d0800000000000000
+      internalID: -3276993277911504558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Antenna
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1640
+        width: 91
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e242bb6e5a6ef60800000000000000
+      internalID: 8063314593254223511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Face_Angry
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1574
+        width: 692
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c435ffd52146a0800000000000000
+      internalID: -6466845946105510139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Face_Unamused
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1580
+        width: 690
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f09079ee77a4b0800000000000000
+      internalID: -5429231284690815664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Head
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1146
+        width: 794
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e827f89bab0dc4700800000000000000
+      internalID: 526024756891185806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Face_Happy
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1254
+        width: 692
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0e656ed82f96070800000000000000
+      internalID: 8100272096071311536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Face_Shocked
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1249
+        width: 690
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebdc7e297e1378e0800000000000000
+      internalID: -1696979128768734228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Body1
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 538
+        width: 376
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06dcd97f0e26990800000000000000
+      internalID: -7394100284079906649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Body2
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 536
+        width: 376
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761feff76612ad10800000000000000
+      internalID: 2135293809258337911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Plate1
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 596
+        width: 226
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3cea3b61193d4b0800000000000000
+      internalID: -5416826400106691589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Plate2
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 594
+        width: 227
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729bb07ba3eb5670800000000000000
+      internalID: 8528660644826419833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Plate3
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 594
+        width: 226
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ede3f0856e7e710800000000000000
+      internalID: 1722598648379792900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Plate4
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 594
+        width: 226
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c794e5b01e8b6e450800000000000000
+      internalID: 6117780420527278460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Hand
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 811
+        width: 212
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74314d76aa53a10800000000000000
+      internalID: 1888602981668177911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Wheel1
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 92
+        width: 322
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0529252b8bd5316d0800000000000000
+      internalID: -3020967877188349360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Wheel2
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 90
+        width: 321
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901604d3017f2eb60800000000000000
+      internalID: 7774047555914064137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Arm_Straight
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 222
+        width: 46
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a7202cc689a700800000000000000
+      internalID: 552120640600516826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HB3000_Arm_Curved
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 253
+        width: 134
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e179a47e68c19a30800000000000000
+      internalID: 4220374702552084964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
